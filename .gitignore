@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+
+# Supabase
+supabase/.temp/
+
+# Study AI Agent data (can be regenerated)
+study-ai-agent/data/*.json
+study-ai-agent/backups/
+
+# Uploads (user-generated content)
+data/uploads/*
+
+# Temporary files
+*.tmp
+*.temp

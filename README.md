@@ -190,6 +190,12 @@ All run on your machine for complete privacy.
 - ✅ No third-party scripts
 - ✅ Open source and transparent
 
+## 🌐 Live Demo
+
+**GitHub Pages**: https://1dpthr.github.io/ILM-Dost/
+
+The app is live and ready to use! Click the link above to try it instantly.
+
 ## 📱 Browser Support
 
 Works best in:
